@@ -13,7 +13,7 @@ android {
     namespace = "dev.materii.gloom"
 
     defaultConfig {
-        applicationId = "dev.materii.gloom"
+        applicationId = "com.saksham.gloom"
         minSdk = 21
         targetSdk = 35
         versionCode = 100
@@ -48,8 +48,8 @@ android {
     }
 
     compileOptions {
-        sourceCompatibility = JavaVersion.VERSION_17
-        targetCompatibility = JavaVersion.VERSION_17
+        sourceCompatibility = JavaVersion.VERSION_24
+        targetCompatibility = JavaVersion.VERSION_24
     }
 
     kotlinOptions {

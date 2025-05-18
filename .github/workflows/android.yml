@@ -8,13 +8,6 @@ on:
       - '**.md'
       - '.idea/*'
       - 'LICENSE'
-  pull_request:
-    branches:
-      - '*'
-    paths-ignore:
-      - '**.md'
-      - '.idea/*'
-      - 'LICENSE'
   workflow_dispatch:
 
 jobs:

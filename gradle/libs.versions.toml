@@ -8,7 +8,7 @@ androidx-lifecycle-runtime-ktx = "2.9.0"
 
 # Compose
 androidx-activity-compose = "1.10.1"
-compose-multiplatform = "1.8.0"
+compose-multiplatform = "1.8.1"
 
 # KotlinX
 kotlinx-coroutines-core = "1.10.2"

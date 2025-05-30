@@ -20,7 +20,7 @@ agp = "8.10.0"
 kotlin = "2.1.21"
 
 # Misc
-aboutlibraries = "12.1.2"
+aboutlibraries = "12.2.0"
 apollo = "4.2.0"
 apollo-adapters = "0.0.6"
 buildkonfig = "0.17.1"
